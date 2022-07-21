@@ -1,0 +1,14 @@
+{
+  "name": "natours-api",
+  "version": "1.0.0",
+  "description": "learning-express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Kepha-Kibet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
